@@ -1,7 +1,14 @@
+List Anggota:
+
 1. Ikhwan Amiruddin
 2. Tirza Dwi Ningrum
 3. Farah Rahil Nuhrin Sabhrina
 4. Dustin Harisyahban Bhinuko
 5. Muhammad Ghinan Hakim
+<<<<<<< HEAD
 ayo
 ayo2
+=======
+
+test
+>>>>>>> 7d9200d2e1171c743d2191f15ba262851e79a8c8
