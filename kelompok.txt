@@ -12,3 +12,5 @@ ayo2
 
 test
 >>>>>>> 7d9200d2e1171c743d2191f15ba262851e79a8c8
+
+belajar
